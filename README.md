@@ -8,5 +8,5 @@ The main goal was to create a responsive site using css and html. I got a mockup
 
 * It is responsive in all viewports.
 * JS is used for a hamburger menu.
-* If you click one of the images in main section, you will open again the same site.
+* If you click one of the images in the main section, you will open again the same site.
 * Images in the footer are real, so if you want to contact me (via gmail or linkedin) feel free to use it.
